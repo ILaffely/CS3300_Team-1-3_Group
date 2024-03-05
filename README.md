@@ -2,5 +2,4 @@
 
 **Technical Documentation:**  https://bit.ly/cs3300technicaldocumentation  
 
-**GitHub Project Board:**  https://github.com/users/ILaffely/projects/1
-
+**GitHub Project Board:**  https://github.com/users/ccarmic2/projects/1
