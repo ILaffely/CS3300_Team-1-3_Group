@@ -2,8 +2,8 @@
 **Title:** GE04  
 **Due:** 03/07 
 **Team Name:** 1-3  
-**Scrum Coach:** Hanh Nguyen\n
-**Tech Lead:** Connor Carmichael\n
+**Scrum Coach:** Hanh Nguyen
+**Tech Lead:** Connor Carmichael
 **Team Member:** Issac Laffely  
 **Scrum Synchronous Stand Up Meeting:** 02/08 @ 11:00am  
 **Asynchorous Team Check In Schedule:** MWF  
@@ -13,8 +13,8 @@
     - Open discussion and provide support if needed
 - Role rotation. 
 - Work progress
-    - Sprint goals and pile items.
-    - Review the work done so far by each team memember
+    - Sprint goals.
+    - Review the work done so far by each team member
 - Team technical documentation tasks.  
 - Goals for this week?  
 - Comfort level with workload, etc      
@@ -26,7 +26,7 @@
     - Address any issues promptly and transparently.
 - Closing
     - Thank  for everyone time and contributions.
-    - Confirm the date and time for the next check-in.- 
+    - Confirm the date and time for the next check-in.
 - Share the meeting link to team discord channel.
   
   
