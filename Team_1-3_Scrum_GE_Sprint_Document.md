@@ -2,8 +2,8 @@
 **Title:** GE04  
 **Due:** 03/07 
 **Team Name:** 1-3  
-**Scrum Coach:** Hanh Nguyen
-**Tech Lead:** Connor Carmichael
+**Scrum Coach:** Hanh Nguyen\n
+**Tech Lead:** Connor Carmichael\n
 **Team Member:** Issac Laffely  
 **Scrum Synchronous Stand Up Meeting:** 02/08 @ 11:00am  
 **Asynchorous Team Check In Schedule:** MWF  
