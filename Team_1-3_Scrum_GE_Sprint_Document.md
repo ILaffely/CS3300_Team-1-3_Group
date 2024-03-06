@@ -1,21 +1,21 @@
 ## Team Scrum GE Sprint Document
-**Title:** GE02  
-**Due:** 02/15  
+**Title:** GE04  
+**Due:** 03/07 
 **Team Name:** 1-3  
-**Scrum Coach:** Connor Carmichael  
-**Tech Lead:** Issac Laffely   
-**Team Member:** Hanh Nguyen  
+**Scrum Coach:**    Hanh Nguyen
+**Tech Lead:**  Connor Carmichael
+**Team Member:** Issac Laffely  
 **Scrum Synchronous Stand Up Meeting:** 02/08 @ 11:00am  
 **Asynchorous Team Check In Schedule:** MWF  
 **Agenda:**  
-- Blockers (Django Version, git and GH familiarity, other school work)  
+- Blockers (command line, git and GH familiarity, other school work)  
 - Work done so far?  
 - Goals for next few days?  
 - Comfort level with workload, etc  
-- Set up in-person meeting 02/13 @ 11:00am  
-- Fix enviroment issues  
+- Set up the next in-person meeting 03/12 @ 11:00am?    
 - Figure out role rotation  
-- Send 2.6 to other 3 person team  
+- Send a communication message to other 3 person team to share the tech documentation portion (optional).
+- Any concerns/ questions.
   
   
   
