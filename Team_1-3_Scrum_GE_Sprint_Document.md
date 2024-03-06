@@ -13,7 +13,7 @@
 - Goals for next few days?  
 - Comfort level with workload, etc  
 - Set up the next in-person meeting 03/12 @ 11:00am?    
-- Figure out role rotation  
+- Figure out role rotation.  
 - Send a communication message to other 3 person team to share the tech documentation portion (optional).
 - Any concerns/ questions.
   
