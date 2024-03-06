@@ -5,7 +5,7 @@
 **Scrum Coach:** Hanh Nguyen<br/>
 **Tech Lead:** Connor Carmichael<br/>
 **Team Member:** Issac Laffely  
-**Scrum Synchronous Stand Up Meeting:** 02/08 @ 11:00am  
+**Scrum Synchronous Stand Up Meeting:** 03/07 @ 11:00am,  @ room #303
 **Asynchorous Team Check In Schedule:** MWF  
 **Agenda:**  
 - Introduction 
